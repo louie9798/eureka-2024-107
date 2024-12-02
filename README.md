@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-유레카 프로젝트 팀 생성을 축하합니다.
+유레카 프로젝트 팀 생성을 축하합니다.asdf
 
 **팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
 
